@@ -1,4 +1,25 @@
 {
   "_base": "https://raw.githubusercontent.com/jacenauton/samples/main/",
-  "break": "Drums/Loops/BreakBeat0001.wav"
+  "break": [
+    "Drums/Loops/BreakBeat0001.wav",
+    "Drums/Loops/BreakBeat0002.wav",
+    "Drums/Loops/BreakBeat0003.wav",
+    "Drums/Loops/BreakBeat0004.wav",
+    "Drums/Loops/BreakBeat0005.wav",
+    "Drums/Loops/BreakBeat0006.wav",
+    "Drums/Loops/BreakBeat0007.wav",
+    "Drums/Loops/BreakBeat0008.wav",
+    "Drums/Loops/BreakBeat0009.wav",
+    "Drums/Loops/BreakBeat0010.wav",
+    "Drums/Loops/BreakBeat0011.wav",
+    "Drums/Loops/BreakBeat0012.wav",
+    "Drums/Loops/BreakBeat0013.wav",
+    "Drums/Loops/BreakBeat0014.wav",
+    "Drums/Loops/BreakBeat0015.wav",
+    "Drums/Loops/BreakBeat0016.wav",
+    "Drums/Loops/BreakBeat0017.wav",
+    "Drums/Loops/BreakBeat0018.wav",
+    "Drums/Loops/BreakBeat0019.wav",
+    "pad": [
+    "
 }
