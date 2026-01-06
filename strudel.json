@@ -1,4 +1,4 @@
 {
   "_base": "https://raw.githubusercontent.com/jacenauton/samples/main/",
-  "break": "Drums/Loops/BreakBeat0001.wav"
+  "break": ["Drums/Loops/BreakBeat0001.wav"]
 }
